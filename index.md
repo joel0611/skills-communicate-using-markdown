@@ -1,3 +1,4 @@
 # Communicate using Markdown
 ## Hurray! I've reached this far
 ###### Thank you GitHub and MuLearn!
+![Image of Octoqueer](https://octodex.github.com/images/Octoqueer.png)
